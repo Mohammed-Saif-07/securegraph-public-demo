@@ -30,6 +30,14 @@ SecureGraph connects:
 
 ![SecureGraph dashboard](screenshots/dashboard.png)
 
+### Global Attack Graph
+
+![Global attack graph](screenshots/global-attack-graph.png)
+
+### Repo-Specific Attack Graph
+
+![Repo-specific attack graph](screenshots/repo-attack-graph.png)
+
 ### Graph-Grounded Patch ROI
 
 ![Patch ROI query](screenshots/patch-roi.png)
