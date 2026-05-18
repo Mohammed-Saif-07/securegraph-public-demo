@@ -14,4 +14,4 @@ This public preview repository does not include:
 - Environment files
 - Deployment secrets
 
-If you believe sensitive material has been published by mistake, contact smohammed8@seattleu.edu immediately.
+
